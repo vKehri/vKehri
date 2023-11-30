@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Kehri</h1>
-<h3 align="center">A passionate GIS Professional looking for opportunities in GIS development field.</h3>
+<h3 align="center">A passionate GIS Developer and an urban planner.</h3>
 
 - 🔭 I’ve worked on various projects - **Market Research Analysis, Theft Analysis, Data Manipulation, Mapping with Python, Browser Automation.**
 
